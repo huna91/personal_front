@@ -1,0 +1,103 @@
+{
+    "card_data":[
+        {
+            "id":"0",
+            "country":"대한민국",
+            "location":"제주도",
+            "title":"용눈이오름",
+            "img":"jeju_1.jpg",
+            "contents":"제주도 가면 찾아가 보세요. 아주 좋아유",
+            "like":"false"
+        },
+        {
+            "id":"1",
+            "country":"러시아",
+            "location":"모스크바",
+            "title":"바실리대성당",
+            "img":"russia_1.jpg",
+            "contents":"러시아의 수도, 세계에서 4번쨰로 큰 도시에서 바실리 대성당을 찾아가보쟈",
+            "like":"false"
+        },
+        {
+            "id":"2",
+            "country":"그리스",
+            "location":"산토리니",
+            "title":"산토리니",
+            "img":"greece_1.jfif",
+            "contents":"그리스에서 가장 아름다운 섬으로 알려져있는 산토리니 섬! 포천에는 산토리니라는 크로플 맛집이 있지요",
+            "like":"false"
+        },
+        {
+            "id":"3",
+            "country":"페루",
+            "location":"마추픽추",
+            "title":"우유니사막",
+            "img":"uyuni_1.jfif",
+            "contents":"아름다운 우유니 사막! 땅에 물붓고 찍으면 만들수있지 ㅋ",
+            "like":"false"
+        },
+        {
+            "id":"4",
+            "country":"미국",
+            "location":"네바다주 클락 카운티",
+            "title":"레드락 캐년",
+            "img":"america_1.jpg",
+            "contents":"라스베가스 가서 슬롯돌리다 졎된 기분 여기가서 힐링하고 오도록 ",
+            "like":"false"
+        },
+        {
+            "id":"5",
+            "country":"필리핀",
+            "location":"알라미노스",
+            "title":"헌드레드 아일랜드",
+            "img":"pilippine_1.jfif",
+            "contents":"1월에 요기 갈거지롱 잇힝~",
+            "like":"false"
+        },
+        {
+            "id":"6",
+            "country":"일본",
+            "location":"아키하바라",
+            "title":"아키하바라",
+            "img":"japen_1.jpg",
+            "contents":"오타쿠들의 성지 SOD VR도 있다고! ><",
+            "like":"false"
+        },
+        {
+            "id":"7",
+            "country":"중국",
+            "location":"베이징",
+            "title":"만리장성",
+            "img":"china_1.jfif",
+            "contents":"만리 함 걸어봐야지~ 행군 해야지~",
+            "like":"false"
+        },
+        {
+            "id":"8",
+            "country":"몰디브",
+            "location":"몰디브",
+            "title":"몰디브",
+            "img":"maldives_1.jpg",
+            "contents":"이제 모히또가서 몰디브한잔 못하는거 알제~? 안동가서 막걸리 한잔혀~",
+            "like":"false"
+        },
+        {
+            "id":"9",
+            "country":"이집트",
+            "location":"카이로",
+            "title":"피라미드",
+            "img":"egypt_1.jfif",
+            "contents":"한쪽이 다른 한쪽을 낳고, 태어난 자가 다시 자기를 낳은 자를 낳는 것은?",
+            "like":"false"
+        },
+        {
+            "id":"10",
+            "country":"멕시코",
+            "location":"칸타나로오",
+            "title":"칸쿤",
+            "img":"mexico_1.jfif",
+            "contents":"여기 좋다. 아주좋아. 좋아좋아 처음널 만나는날 노란세송이 장미를들고우오우오~",
+            "like":"false"
+        }       
+    ]
+}
